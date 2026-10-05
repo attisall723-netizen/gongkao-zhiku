@@ -3,7 +3,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: '行测知图｜行测全科知识检索',
-  description: '覆盖政治理论、常识判断、言语理解、数量关系、判断推理与资料分析的结构化行测知识地图。',
+  description: '覆盖31,648条成语、十五五政治理论、高频法律及行测六大模块的结构化知识检索地图。',
 };
 
 export default function RootLayout({
