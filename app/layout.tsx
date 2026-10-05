@@ -3,7 +3,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: '公考知库｜公考全科知识检索',
-  description: '覆盖31,648条成语、十五五政治理论、高频法律及行测六大模块的结构化知识检索地图。',
+  description: '覆盖31,648条成语、政治理论、法律、行测与申论，并支持按日期和知识点检索个人复盘卡。',
 };
 
 export default function RootLayout({
