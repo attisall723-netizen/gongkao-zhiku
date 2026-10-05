@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/gongkao-zhiku/_next/static/chunks/0dbhjjzl8qfwv.js","/gongkao-zhiku/_next/static/chunks/0k6kr~ze-.qya.js"],"ViewportBoundary"]
+3:I[97367,["/gongkao-zhiku/_next/static/chunks/0dbhjjzl8qfwv.js","/gongkao-zhiku/_next/static/chunks/0k6kr~ze-.qya.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"公考知库｜公考全科知识检索"}],["$","meta","1",{"name":"description","content":"覆盖31,648条成语、政治理论、法律、行测与申论，并支持按日期和知识点检索个人复盘卡。"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PFnnCE7MtojRyi24uMJ52"}
